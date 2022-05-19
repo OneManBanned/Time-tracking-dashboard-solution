@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/time-tracking-dashboard-solution-Ie9j-7Jg3r)]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/time-tracking-dashboard-solution-Ie9j-7Jg3r))
+- Live Site URL: [[Add live site URL here](https://onemanbanned.github.io/Time-tracking-dashboard-solution/)]([https://your-live-site-url.com](https://onemanbanned.github.io/Time-tracking-dashboard-solution/))
 
 ### Built with
 
